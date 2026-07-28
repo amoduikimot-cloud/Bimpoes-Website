@@ -1,0 +1,6 @@
+{
+  "name": "Bimpoes Business Ventures",
+  "description": "Leading Nigerian medical equipment supplier, biomedical engineering services, healthcare facility planning, and AI equipment advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
